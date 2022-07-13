@@ -46,6 +46,7 @@ constructor(props:any){
         return (
             <>
                 <div>
+                    <span>search</span>
                     <input type="text" onKeyUp={() => this.search(this.myRef.current?.value)} ref={this.myRef}/>
                 </div>
                 <div className="content">
