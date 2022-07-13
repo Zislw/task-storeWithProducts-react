@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/task-storeWithProducts-react/static/css/main.8fe5b19b.css",
+    "main.js": "/task-storeWithProducts-react/static/js/main.a25c417d.js",
+    "static/js/787.ff002f5d.chunk.js": "/task-storeWithProducts-react/static/js/787.ff002f5d.chunk.js",
+    "index.html": "/task-storeWithProducts-react/index.html",
+    "main.8fe5b19b.css.map": "/task-storeWithProducts-react/static/css/main.8fe5b19b.css.map",
+    "main.a25c417d.js.map": "/task-storeWithProducts-react/static/js/main.a25c417d.js.map",
+    "787.ff002f5d.chunk.js.map": "/task-storeWithProducts-react/static/js/787.ff002f5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fe5b19b.css",
+    "static/js/main.a25c417d.js"
+  ]
+}
